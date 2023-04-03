@@ -1,4 +1,4 @@
-from	to	PMI
+from	to	MI
 gladius	reus	1.8700504466491363
 gladius	piscis	1.7611160750959716
 gladius	orio	1.5805438294541503
@@ -94,7 +94,7 @@ gladius	membrum	0.41061882801183813
 gladius	pilum	0.41061882801183813
 gladius	princeps	0.41061882801183813
 gladius	uictus	0.41061882801183813
-gladius	ensis	-1.2198077048656906
+gladius	ensis	0.0
 ensis	strictus	2.420621072712864
 ensis	sol	1.9731620957416425
 ensis	clipeus	1.6550863263498865
@@ -147,11 +147,11 @@ ensis	pars	0.18358187541201332
 ensis	uir	0.11945153799229757
 ensis	acies	0.04424519380312475
 ensis	sanguis	0.04210944945913475
-ensis	caput	-0.005643681989235816
-ensis	animus	-0.1643414280082922
-ensis	mors	-0.19676290570066968
-ensis	corpus	-0.23473075589969028
-ensis	hostis	-0.27396591918279256
-ensis	pars	-0.3018449517582269
-ensis	hostis	-0.4344305913760387
-ensis	miles	-0.46390170986720136
+ensis	caput	0.0
+ensis	animus	0.0
+ensis	mors	0.0
+ensis	corpus	0.0
+ensis	hostis	0.0
+ensis	pars	0.0
+ensis	miles	0.0
+ensis	gladius	0.0
